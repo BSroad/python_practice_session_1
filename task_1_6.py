@@ -15,5 +15,6 @@ def get_longest_word(somestring):
             longest_word = word
     return longest_word
 
+
 print(get_longest_word('Python is simple and effective!')) # output: 'effective!'
 print(get_longest_word('Any pythonista like namespaces a lot.')) # output: 'pythonista'

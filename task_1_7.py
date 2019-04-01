@@ -18,7 +18,6 @@ def foo(some_list):
     return new_list
 
 
-
 print(foo([1,2,3,4,5]))  # output: [120, 60, 40, 30, 24]
 print(foo([3,2,1]))  # output: [2,3,6]
 

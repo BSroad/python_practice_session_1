@@ -9,5 +9,6 @@ def get_digits(num):
         nums_list.append(int(i))
     return tuple(nums_list)
 
+
 print(get_digits(87178291199))  # output: (8,7,1,7,8,2,9,1,1,9,9)
 
